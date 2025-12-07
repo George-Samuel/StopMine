@@ -13,3 +13,14 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Архивы
+*.7z
+*.zip
+*.rar
+
+# Android билды
+*.apk
+*.aab
+/app/build/outputs/
+
